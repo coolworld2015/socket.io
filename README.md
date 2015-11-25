@@ -1,4 +1,8 @@
-# Socket.IO
-Socket.IO Chat
-git clone https://github.com/eduard-tkachuk/Socket.IO.git
+# Socket.IO Chat
+git clone https://github.com/coolworld2015/Socket.IO.git
+-------------------------------------------------------------------------------------------------
+git config user.name "coolworld2015"
+-------------------------------------------------------------------------------------------------
+git config user.email "wintermute2015@ukr.net"
+-------------------------------------------------------------------------------------------------
 
